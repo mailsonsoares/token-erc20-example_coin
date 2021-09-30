@@ -4,3 +4,6 @@ Modelo de Smart Contract ERC-20 para cunhar uma moeda chamada "Example Coin" (EX
 Contract: 0x8443fD5a70C007d1C7327b66819558a25D1a5732 
 
 https://mumbai.polygonscan.com/address/0x8443fD5a70C007d1C7327b66819558a25D1a5732
+
+-truffle
+-openzeppelin
